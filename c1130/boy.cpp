@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-    const int num = 10;
+    const int num = 7;
     int m; //每轮人数
     int a[num], b[num];
     for (int i = 0; i < num; i++)
